@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "380285552019",
+    "firebase_url": "https://safetrack-3742c-default-rtdb.firebaseio.com",
+    "project_id": "safetrack-3742c",
+    "storage_bucket": "safetrack-3742c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380285552019:android:168b93ee630133e0cdd466",
+        "android_client_info": {
+          "package_name": "com.example.safetrack_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXHWCu90B_oERpBpYrsrD8Ts5ddYB2tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
